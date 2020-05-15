@@ -14,6 +14,9 @@ Also add RSpecs (Unit tests) along with the code.
 You should build this without full fledged Rails framework
 Please make sure you use rspec 3.X
 
+## Installing Dependencies
+bundle install
+
 ## Run Server
 ruby app.rb
 
